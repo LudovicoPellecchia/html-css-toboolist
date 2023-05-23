@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+header{
+    margin: 20px;
+}
+
+.title{
+    font-size:40px;
+    font-weight: 800;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+
+.container{
+    width: 900px;
+    margin: auto;
+    padding-top: 60px;
+}
+
+.button{
+    border: none;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+.task{
+    color: white; 
+    background-color:#47ADF1;
+    border-radius: 7px;
+    border: 1px solid;
+}
+
+.section{
+    border: 1px solid rgb(198, 198, 198);
+    color: rgb(198, 198, 198); 
+    border-radius: 7px;
+}
